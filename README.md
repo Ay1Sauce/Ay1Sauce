@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3d17a123-b3ae-4053-9191-dc2efd1a7a8c.jpeg?v=1786221781)](https://www.boot.dev/certificates/3d17a123-b3ae-4053-9191-dc2efd1a7a8c)
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/69adeb70-ba25-4799-8376-6c9ef91c5a71.jpeg?v=1786812717)](https://www.boot.dev/certificates/69adeb70-ba25-4799-8376-6c9ef91c5a71)
